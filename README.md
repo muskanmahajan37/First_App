@@ -2,4 +2,4 @@
 
 ### percentage calculator
 
-##### had some problem in alignment and gradle
+##### have some problem in alignment and gradle
